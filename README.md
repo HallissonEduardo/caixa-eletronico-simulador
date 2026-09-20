@@ -102,8 +102,10 @@ Certifique-se de ter o Python 3.x instalado em sua máquina. O projeto utiliza o
 
 O projeto alcança seu objetivo ao demonstrar na prática como a combinação de boas práticas de engenharia de *software* (Python POO + SQLite) com a configuração agressiva de sistema operacional (*Hardening* em Linux) pode criar dispositivos de uso público altamente resilientes a invasões físicas.
 
-**Referências:**
 
-- ISO/IEC 27001 — Tecnologia da Informação — Técnicas de Segurança.
-- Documentação Oficial do Python (PEP 8, Tkinter, SQLite3).
-- Documentação do Openbox e Ubuntu OS.
+## Referências
+
+* [Documentação Oficial do Python 3](https://docs.python.org/pt-br/3/)
+* [Documentação do Tkinter (Interface Gráfica Padrão)](https://docs.python.org/pt-br/3/library/tkinter.html)
+* [CustomTkinter (Interfaces Gráficas Modernas)](https://customtkinter.tomschimansky.com/documentation/)
+* [Tutoriais Oficiais do Ubuntu Linux](https://ubuntu.com/tutorials)
