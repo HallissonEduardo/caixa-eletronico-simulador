@@ -107,5 +107,4 @@ O projeto alcança seu objetivo ao demonstrar na prática como a combinação de
 
 * [Documentação Oficial do Python 3](https://docs.python.org/pt-br/3/)
 * [Documentação do Tkinter (Interface Gráfica Padrão)](https://docs.python.org/pt-br/3/library/tkinter.html)
-* [CustomTkinter (Interfaces Gráficas Modernas)](https://customtkinter.tomschimansky.com/documentation/)
 * [Tutoriais Oficiais do Ubuntu Linux](https://ubuntu.com/tutorials)
