@@ -37,7 +37,7 @@ Simulador de caixa eletrônico (ATM) com interface gráfica, pensado para rodar 
 
 ## Licença
 
-[MIT](https://opensource.org/license/mit).
+[MIT](https://opensource.org/license/mit)
 
 ## Padrões para contribuir
 
